@@ -1,6 +1,6 @@
 Package.describe( {
 	name: 'nadeemjq:accounts-passwordless',
-	version: '0.2.4',
+	version: '0.2.5',
 	summary: 'TEMPORARY FORK!!! Token-based one-time password (OTPW) authentication (nopassword, passwordless)',
 	git: 'https://github.com/nadeemja/meteor-accounts-passwordless',
 	documentation: 'README.md'
